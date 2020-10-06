@@ -220,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601990253885</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="InfoActivity Intent to Open Map">
+      <created>1601990494809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601990494809</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,34 +245,34 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1601988591800" />
-    <state x="291" y="27" key="CommitChangelistDialog2" timestamp="1601990253169">
+    <state x="291" y="27" key="CommitChangelistDialog2" timestamp="1601990494208">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="291" y="27" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1601990253169" />
-    <state width="722" height="221" key="GridCell.Tab.0.bottom" timestamp="1601989345366">
+    <state x="291" y="27" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1601990494208" />
+    <state width="722" height="221" key="GridCell.Tab.0.bottom" timestamp="1601990533706">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="722" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601989345366" />
-    <state width="722" height="221" key="GridCell.Tab.0.center" timestamp="1601989345365">
+    <state width="722" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1601990533706" />
+    <state width="722" height="221" key="GridCell.Tab.0.center" timestamp="1601990533705">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="722" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601989345365" />
-    <state width="722" height="221" key="GridCell.Tab.0.left" timestamp="1601989345365">
+    <state width="722" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1601990533705" />
+    <state width="722" height="221" key="GridCell.Tab.0.left" timestamp="1601990533705">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="722" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601989345365" />
-    <state width="722" height="221" key="GridCell.Tab.0.right" timestamp="1601989345365">
+    <state width="722" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1601990533705" />
+    <state width="722" height="221" key="GridCell.Tab.0.right" timestamp="1601990533705">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="722" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601989345365" />
+    <state width="722" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1601990533705" />
     <state x="277" y="75" key="SettingsEditor" timestamp="1601988778768">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601988778768" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1601990255850">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1601990502089">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1601990255850" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1601990502089" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1601988256964">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
