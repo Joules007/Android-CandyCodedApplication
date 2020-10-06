@@ -12,6 +12,7 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601990494809</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="InfoActivity Intent to Open Map">
+      <created>1601990918714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601990918714</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,10 +253,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1601988591800" />
-    <state x="291" y="27" key="CommitChangelistDialog2" timestamp="1601990494208">
+    <state x="291" y="27" key="CommitChangelistDialog2" timestamp="1601990918054">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="291" y="27" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1601990494208" />
+    <state x="291" y="27" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1601990918054" />
     <state width="722" height="221" key="GridCell.Tab.0.bottom" timestamp="1601990533706">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -269,10 +277,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1601988778768" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1601990502089">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1601990921695">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1601990502089" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1601990921695" />
     <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1601988256964">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
